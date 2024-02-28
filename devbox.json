@@ -22,7 +22,7 @@
             ],
             "serve": [
                 "cd myblog",
-                "bundler exec $GEM_HOME/bin/jekyll serve --trace"
+                "bundler exec $GEM_HOME/bin/jekyll serve --trace --port 8080"
             ]
         }
     }
