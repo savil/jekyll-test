@@ -1,0 +1,65 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "bundler@latest": {
+      "last_modified": "2024-02-26T19:46:43Z",
+      "resolved": "github:NixOS/nixpkgs/548a86b335d7ecd8b57ec617781f5e652ab0c38e#bundler",
+      "source": "devbox-search",
+      "version": "2.5.6",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/bfrd9nvvsf479004wjyrpzwk1apg7ixk-bundler-2.5.6"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/ng1jpbix8f1kmcmknfmjv3nyvr6imw1w-bundler-2.5.6"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/zw9w0gz4sl5aqlxc8j566szn9bccsa8b-bundler-2.5.6"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/kk5yp658n29fvxg09ddm1x8k73fcdrj7-bundler-2.5.6"
+        }
+      }
+    },
+    "libffi@latest": {
+      "last_modified": "2024-02-26T19:46:43Z",
+      "resolved": "github:NixOS/nixpkgs/548a86b335d7ecd8b57ec617781f5e652ab0c38e#libffi",
+      "source": "devbox-search",
+      "version": "3.4.4",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/ni4m7lhwb630jcapfn1rzdlylpfphpx5-libffi-3.4.4"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/13r51fz0l4f34q7j196cs989jrpjp09h-libffi-3.4.4"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/1y70bk4xcr1z759cf076s0c65j7x3pj1-libffi-3.4.4"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/5r3r06j8hzvb2cm0sjhdadgdmzrfh3nj-libffi-3.4.4"
+        }
+      }
+    },
+    "ruby@3.1": {
+      "last_modified": "2024-02-25T07:54:35Z",
+      "resolved": "github:NixOS/nixpkgs/2a34566b67bef34c551f204063faeecc444ae9da#ruby",
+      "source": "devbox-search",
+      "version": "3.1.4",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/hkfykfbqbz58f06l28qr4anjbhjhqg86-ruby-3.1.4"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/41ccv1pp1kn1zpp5q9fm1j84nlanays9-ruby-3.1.4"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/29m8hb4hjkq7w75d3463i1a8g5icklna-ruby-3.1.4"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/wn7wd5bv28rki4ln0xk26fbdx5akfr5j-ruby-3.1.4"
+        }
+      }
+    }
+  }
+}
