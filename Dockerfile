@@ -10,7 +10,7 @@ RUN devbox run -- echo "Installed Packages."
 COPY --chown=${DEVBOX_USER}:${DEVBOX_USER} myblog ./myblog
 COPY --chown=${DEVBOX_USER}:${DEVBOX_USER} process-compose.yml .
 
-EXPOSE 4000
+EXPOSE 8080
 
 RUN devbox run generate
 CMD ["devbox", "run", "serve"]
