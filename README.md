@@ -24,4 +24,4 @@ Inspired by [This Example](https://litchipi.github.io/nix/2023/01/12/build-jekyl
 
 * [Using Ruby with Devbox](https://www.jetpack.io/devbox/docs/devbox_examples/languages/ruby/)
 
-----
+-----
